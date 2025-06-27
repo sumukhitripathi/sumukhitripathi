@@ -4,7 +4,7 @@
 
 ![Tech Banner](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aTc0aDQ5a21waHpyem53ODh3cDB4M2Z2NGlxc2MzdG5oN2Z2MHJ5NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/77rvjVcaJr1BgKSXtR/giphy.gif)
 
-🎓 CSE Undergrad (CGPA: 9.54)  
+🎓 CSE Undergrad  
 🔐 Cybersecurity | 🧠 AI/ML Enthusiast  
 💻 C | Python | Kali Linux | Network Analysis  
 ⚔️ CTFs | Hackathons | Cryptography Basics  
@@ -36,7 +36,8 @@
 
 <div align="center">
 
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-F79F1F?style=for-the-badge&logo=tensorflow&logoColor=white) ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF6F61?style=for-the-badge&logo=fortinet&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-F79F1F?style=for-the-badge&logo=tensorflow&logoColor=white) ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF6F61?style=for-the-badge&logo=fortinet&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Scripting](https://img.shields.io/badge/Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
 
 </div>
 
