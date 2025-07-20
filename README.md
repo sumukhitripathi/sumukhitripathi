@@ -66,7 +66,6 @@
 ---
 
 ## 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumukhitripathi&layout=compact&theme=radical)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumukhitripathi&layout=donut-vertical)](https://github.com/sumukhitripathi/github-readme-stats)
 
 ---
